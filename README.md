@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Lesliecop94/Lesliecop94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior front-end developer looking for opportunities to use my skills, improve them and learn new ones.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills ✌️
+✔️ Html - CSS - Javascript 
+✔️ Sass - GIt - Gulp
+✔️ Wordpress - PHP
+✔️ Photoshop - Indesign - Illustrator
+
+Learning ⏳
+
+💻 Angular
+💻 React
+💻 Vue
