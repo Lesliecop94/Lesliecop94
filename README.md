@@ -3,9 +3,3 @@ Skills ✌️
 ✔️ Sass - GIt - Gulp
 ✔️ Wordpress - PHP
 ✔️ Photoshop - Indesign - Illustrator
-
-Learning ⏳
-
-💻 Angular
-💻 React
-💻 Vue
